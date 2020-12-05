@@ -6,6 +6,10 @@ div{
     box-shadow: 0 0 10px rgba(0, 0, 0, 50%);
     overflow: hidden;
 }
+div:hover{
+    transform: scale(1.1);
+    box-shadow: 0 0 20px rgba(0, 0, 0, 100%);
+}
 
 img{
     height: 100%;
